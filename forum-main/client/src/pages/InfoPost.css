@@ -1,0 +1,100 @@
+input.comment-box {
+    max-width: 100%;
+}
+
+img {
+    width: 200px;
+}
+
+span {
+    display: flex;
+    font-size: 18px;
+    align-items: center;
+}
+
+h5 {
+    margin-top: 25px;
+}
+
+p {
+    margin-top: 25px;
+}
+
+.comment-submit {
+    display: flex;
+}
+
+.send-button {
+    width: 22px;
+    padding-left: 15px;
+}
+
+.post-image {
+    margin-bottom: 10px;
+}
+
+.Card {
+    display: block;
+    backdrop-filter: blur(2px);
+    background: white;
+    border: 1px solid transparent;
+    border-radius: 20px;
+    justify-content: left;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    width: 100%;
+    text-align: left;
+    margin-top: 50px;
+}
+
+.thumbs-up {
+    display: flex;
+    width: 20px;
+    align-items: center;
+    padding-right: 10px;
+}
+
+.button-container {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    width: 100%;
+    align-items: center;
+}
+
+.upvote-container {
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.upvote-button {
+    padding: 0px;
+    width: 10%;
+}
+
+.edit-del {
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: space-between;
+    margin-right: 10px;
+    margin-bottom: 0px;
+}
+
+.edit-button, .delete-button {
+    display: block;
+    width: 30px;
+    margin-right: 10px;
+}
+
+.comments-section {
+    background-color: #F7E6D7;
+    border-radius: 10px;
+    padding: 20px;
+    margin-right: 25px;
+    margin-bottom: 25px;
+    margin-top: 15px;
+}

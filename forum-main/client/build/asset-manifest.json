@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a80d0c92.css",
+    "main.js": "/static/js/main.98c48ddf.js",
+    "static/js/289.96a33eda.chunk.js": "/static/js/289.96a33eda.chunk.js",
+    "static/media/sports-logo.png": "/static/media/sports-logo.2c386617606ef11cfca5.png",
+    "static/media/like.png": "/static/media/like.9a00c3c5a4d2f21e0b91.png",
+    "static/media/more.png": "/static/media/more.b1d4972864aba11f95a9.png",
+    "static/media/send.png": "/static/media/send.deecc6e72cd2c633ec83.png",
+    "index.html": "/index.html",
+    "main.a80d0c92.css.map": "/static/css/main.a80d0c92.css.map",
+    "main.98c48ddf.js.map": "/static/js/main.98c48ddf.js.map",
+    "289.96a33eda.chunk.js.map": "/static/js/289.96a33eda.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a80d0c92.css",
+    "static/js/main.98c48ddf.js"
+  ]
+}

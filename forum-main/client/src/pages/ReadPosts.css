@@ -1,0 +1,23 @@
+.ReadPosts {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    text-align: center;
+}
+
+.sort-buttons {
+    display: flex;
+}
+
+h2 {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+SearchBar {
+    display: flex;
+    justify-content: center;
+}
+
+

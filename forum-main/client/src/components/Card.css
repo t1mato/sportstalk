@@ -1,0 +1,66 @@
+img {
+    align-items: center;
+    justify-content: center;
+}
+
+p {
+    font-size: 16px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+h5 {
+    margin: 0px;
+}
+
+.Card {
+    display: block;
+    backdrop-filter: blur(2px);
+    background: white;
+    border: 1px solid transparent;
+    border-radius: 20px;
+    justify-content: left;
+    padding-top: 30px;
+    padding-left: 24px;
+    padding-bottom: 30px;
+    margin-top: 20px;
+    width: 100%;
+    text-align: left;
+}
+
+#feed.Card {
+    padding-top: 0px;
+    padding-bottom: 0px;
+    margin-top: 22px;
+}
+
+.editButton {
+    border-radius: 8px;
+    border: 1px solid transparent;
+    padding: 0.6em 1.2em;
+    font-size: 15px;
+    font-weight: 500;
+    font-family: inherit;
+    background-color: #1a1a1a;
+    color:white;
+    cursor: pointer;
+    transition: border-color 0.25s;
+}
+.editButton:hover {
+    border-color: #646cff;
+  }
+
+.moreButton {
+    width: 30px;
+    float:right;
+
+}
+.moreButton:hover {
+    cursor: pointer;
+}
+
+.link {
+    text-decoration: none;
+}
+
+

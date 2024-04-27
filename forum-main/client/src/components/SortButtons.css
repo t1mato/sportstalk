@@ -1,0 +1,19 @@
+.sorting-buttons {
+    display: flex;
+    font-size: 15px;
+    align-items: center;
+    padding: 0px;
+}
+
+.order-buttons {
+    display: flex;
+    border: 1px solid transparent;
+    background-color: #FFB679;
+    margin-left: 10px;
+    color: white;
+}
+
+.order-buttons-container {
+    display: flex;
+    justify-content: space-between;
+}
